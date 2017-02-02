@@ -24,7 +24,7 @@ public class Startup extends BroadcastReceiver {
     @Override
     public void onReceive(final Context context, final Intent intent) {
         final String action = intent.getAction();
-        if (cyanogenmod.content.Intent.ACTION_INITIALIZE_CM_HARDWARE.equals(action)) {
+        if (mokee.content.Intent.ACTION_INITIALIZE_MK_HARDWARE.equals(action)) {
             context.startService(new Intent(context, UsbDeviceMonitorService.class));
         }
     }
