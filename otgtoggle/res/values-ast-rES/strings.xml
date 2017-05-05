@@ -23,7 +23,7 @@
   <string name="connection_notification_text">Toca pa camudar el mou</string>
   <string name="selection_dialog_title">Usar preséu coneutáu como</string>
   <string name="auto_detect_title">Deteición automática</string>
-  <string name="auto_detect_summary">Tenta de deteutar si\'l preséu coneutáu son auriculares o un preséu USB</string>
+  <string name="auto_detect_summary">Tenta de deteutar si\'l preséu coneutáu ye USB o auriculares</string>
   <string name="headset_title">Auriculares</string>
   <string name="headset_summary">Afita\'l puertu USB pa operar nel mou d\'auriculares</string>
   <string name="otg_title">Preséu USB</string>
